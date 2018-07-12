@@ -1,0 +1,20 @@
+[
+	{
+		"id":"Mario",
+		"password":"pmario",
+		"ruolo":"magazziniere"
+	},
+	
+	{
+		"id":"Sergio",
+		"password":"psergio",
+		"ruolo":"segreteria"
+	},
+	
+	{
+		"id":"Roberto",
+		"password":"proberto",
+		"ruolo":"responsabile"
+	}
+]
+

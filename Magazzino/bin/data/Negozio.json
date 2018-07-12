@@ -1,0 +1,13 @@
+Negozio1 = {
+	"codiceFiscale":"BRCTBE43DL",
+	"nome":"Adidas",
+	"indirizzo":"via da qua",
+	"citta":"Milano"
+}
+
+Negozio2 = {
+	"codiceFiscale":"JGBEK56DH44",
+	"nome":"Nike",
+	"indirizzo":"via da la",
+	"citta":"Torino"
+}

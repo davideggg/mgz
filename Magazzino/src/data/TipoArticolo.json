@@ -1,0 +1,13 @@
+["tipo1" : {
+	"nome":"sneakers adidas",
+	"descrizione":"scarpe adidas tacchetti di ferro",
+	"sport":"calcio",
+	"materiali":["gomma","tessuto","plastica"]
+},
+"tipo2" :{
+	"nome":"guanti adidas",
+	"descrizione":"guanti adidas per portieri",
+	"sport":"calcio",
+	"materiali":["gomma","tessuto","plastica"]
+}
+]
